@@ -4,7 +4,7 @@ This GitHub-ready project contains the full **Iris Classification** workflow usi
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 ```
 Iris-Classification-Project/
 │
@@ -16,7 +16,7 @@ Iris-Classification-Project/
 
 ---
 
-## 📌 Overview
+##  Overview
 This project demonstrates supervised machine learning on the **Iris flower dataset**. The algorithm used is:
 
 - **K-Nearest Neighbors (KNN)**
@@ -32,7 +32,7 @@ Evaluation includes:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Upload all files to your GitHub repo.
 2. Open the notebook in Google Colab.
 3. Upload `Iris.csv` in Colab.
@@ -40,7 +40,7 @@ Evaluation includes:
 
 ---
 
-## 📓 Google Colab Code (Notebook Content)
+##  Google Colab Code (Notebook Content)
 
 ```python
 import pandas as pd
@@ -88,7 +88,7 @@ print(classification_report(y_test, y_pred_knn))
 
 ---
 
-## 📦 requirements.txt
+##  requirements.txt
 ```
 pandas
 numpy
@@ -99,7 +99,7 @@ scikit-learn
 
 ---
 
-## 📝 Author
+##  Author
 **Charvi Sharma**
 
 ---
