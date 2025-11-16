@@ -1,0 +1,11 @@
+pandas numpy matplotlib seaborn scikit-learn
+
+pandas → for loading & handling the Iris.csv dataset
+
+numpy → numerical operations
+
+matplotlib → plotting graphs
+
+seaborn → heatmaps & statistical plots
+
+scikit-learn → KNN model, train-test split, evaluation metrics
